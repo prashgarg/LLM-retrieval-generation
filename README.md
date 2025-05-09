@@ -30,17 +30,4 @@ turn unstructured text into structured, analysis‑ready data with the
 | `80_company_innovation.ipynb` | **Innovation profiler** | 17‑field profile from just *name + country* |
 | `90_batch_translation_demo.ipynb` | **Async batching** | Split → upload → poll → parse 50 k requests end‑to‑end |
 
-*(Every notebook is < 200 loc and ends with at least one basic validation cell).*
 
----
-
-## ⚡ Quick start
-
-```bash
-# clone & cd
-git clone https://github.com/<your‑handle>/llm‑data‑toolkit.git
-cd llm‑data‑toolkit
-
-# recommended environment
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt   # or `pip install openai python-dotenv pandas ...`
