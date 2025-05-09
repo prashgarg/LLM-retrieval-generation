@@ -29,5 +29,31 @@ turn unstructured text into structured, analysis‑ready data with the
 | `70_name_gender.ipynb` & `71_name_race.ipynb` | **Demographic tagging** | Same helper, different schema; bias tests included |
 | `80_company_innovation.ipynb` | **Innovation profiler** | 17‑field profile from just *name + country* |
 | `90_batch_translation_demo.ipynb` | **Async batching** | Split → upload → poll → parse 50 k requests end‑to‑end |
+---
+
+## 🖼️ Slides (`slides.pdf`)
+
+* 45 visual slides that **mirror the notebooks**: quick API tour, workflow
+  patterns, batching cheat‑sheet, cost maths, and validation playbook.
+* “Why‑now?” chart (97× token‑price drop, 64× context‑window jump).
+* Case‑studies (causal graphs, supply‑chains, stance detection) you can quote
+  when pitching an LLM project. 
+
+---
+
+## 👋 About Me
+
+Hi — I’m **Prashant Garg**  
+PhD candidate, **Economics & Public Policy Department, Imperial College Business School**  
+
+**Research areas**
+
+* AI & Big Data | Economics of Networks  
+* Science of Science | Media & Political Economy  
+
+📄 Papers & projects → <https://www.prashantgarg.org/>  
+✉️ Reach me at **prashant.garg@imperial.ac.uk**
+
+Always happy to chat about LLM workflows, causal graphs, or collaborative ideas!
 
 
