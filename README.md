@@ -41,6 +41,18 @@ turn unstructured text into structured, analysis‑ready data with the
 
 ---
 
+## Crediting
+
+If you think the notebooks helped, you could express gratitude by citing the relevant paper. 
+Each notebook contains underlying papers where I developed the application. These are on top of each notebook. 
+These papers include:
+
+
+- Garg, P. and Fetzer, T., 2025. **Causal claims in economics**. arXiv preprint arXiv:2501.06873.
+- Fetzer, T., Lambert, P.J., Feld, B. and Garg, P., 2024. **AI-generated production networks: Measurement and applications to global trade**.
+- Garg, P. and Fetzer, T., 2025. **Political expression of academics on Twitter**. Nature Human Behaviour. DOI: 10.1038/s41562-025-02199-1
+- Garg, P. and Fetzer, T., 2025. **Artificial Intelligence health advice accuracy varies across languages and contexts**. arXiv preprint arXiv:2504.18310.
+
 ## 👋 About Me
 
 Hi — I’m **Prashant Garg**  
