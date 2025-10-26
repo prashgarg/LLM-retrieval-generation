@@ -23,7 +23,8 @@ turn unstructured text into structured, analysis‑ready data with the
 | `10_single_stage_retrieval.ipynb` | **Retrieval v1** | Extract causal edges from abstracts via JSON schema |
 | `20_two_stage_retrieval.ipynb` | **Retrieval v2** | Summarise 30 pp → then pull edges (cheaper & cleaner) |
 | `30_supply_chain_generation.ipynb` | **Generation** | Bill‑of‑materials for an EV (inputs + scores) |
-| `40_embeddings_mapping.ipynb` | **Node → Code** | Map free‑text parts to HS6 / JEL codes with embeddings |
+| `40_embeddings_mapping.ipynb` | **Embeddings 1** | Map free‑text parts to HS6 / JEL codes with embeddings |
+| `41_41_embeddings_novelty_detection.ipynb` | **Embeddings 2** | Use embeddings to detect distinctive items among a group. |
 | `50_dictionary_gen_prune.ipynb` | **Keyword builder** | Context‑aware n‑gram lists & LLM pruning loop |
 | `60_tweet_stance.ipynb` | **Stance classifier** | Pro / anti / neutral / unrelated with modal voting |
 | `70_name_gender.ipynb` & `71_name_race.ipynb` | **Demographic tagging** | Same helper, different schema; bias tests included |
@@ -33,11 +34,10 @@ turn unstructured text into structured, analysis‑ready data with the
 
 ## 🖼️ Slides (`slides.pdf`)
 
-* 45 visual slides that **mirror the notebooks**: quick API tour, workflow
+* Slides that **mirror the notebooks**: quick API tour, workflow
   patterns, batching cheat‑sheet, cost maths, and validation playbook.
-* “Why‑now?” chart (97× token‑price drop, 64× context‑window jump).
-* Case‑studies (causal graphs, supply‑chains, stance detection) you can quote
-  when pitching an LLM project. 
+* “Why‑now?” chart (150× token‑price drop, 500× context‑window jump).
+* Case‑studies (causal graphs, supply‑chains, stance detection, translation) 
 
 ---
 
